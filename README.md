@@ -9,3 +9,18 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
  - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
 
  Happy coding! 🚀
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MohamadCh1/leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MohamadCh1/leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MohamadCh1/leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+<!---LeetCode Topics End-->
