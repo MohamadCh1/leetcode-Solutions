@@ -27,6 +27,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MohamadCh1/leetcode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/MohamadCh1/leetcode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
