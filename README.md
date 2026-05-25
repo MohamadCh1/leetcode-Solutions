@@ -41,4 +41,9 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/MohamadCh1/leetcode-Solutions/tree/main/0007-reverse-integer/) | Medium |
+| [0029-divide-two-integers](https://github.com/MohamadCh1/leetcode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0029-divide-two-integers](https://github.com/MohamadCh1/leetcode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 <!---LeetCode Topics End-->
