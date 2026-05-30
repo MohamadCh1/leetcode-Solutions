@@ -47,6 +47,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0012-integer-to-roman](https://github.com/MohamadCh1/leetcode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0029-divide-two-integers](https://github.com/MohamadCh1/leetcode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0043-multiply-strings](https://github.com/MohamadCh1/leetcode-Solutions/tree/main/0043-multiply-strings/) | Medium |
+| [0050-powx-n](https://github.com/MohamadCh1/leetcode-Solutions/tree/main/0050-powx-n/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,4 +56,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/MohamadCh1/leetcode-Solutions/tree/main/0043-multiply-strings/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/MohamadCh1/leetcode-Solutions/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
